@@ -1,4 +1,12 @@
 ## Hi there 👋
+🎩🍴👀💚🦢🛒🏴‍☠️ 
+
+I'm a cryptographer! ⚛️⚛️⚛️
+
+- 🔭 I’m currently working on cryptography: applied to the real-world and cryptanalysis!
+ - 👯 I’m Latin American and I love it!
+ - 🌱 I’m currently learning cyclotomics!
+- 😄 Pronouns: she/her, they/them.
 
 <!--
 **claakmem/claakmem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
